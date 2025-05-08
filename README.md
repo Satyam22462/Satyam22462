@@ -46,17 +46,20 @@
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=satyam22462&show_icons=true&theme=default" height="165"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam22462&layout=compact&langs_count=6" height="165"/>
+  
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=satyam22462&theme=flat&row=1&column=6"/>
 </p>
 
 ---
+[![Satyam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam22462&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌐 Connect with Me
 
