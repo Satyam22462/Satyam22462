@@ -49,7 +49,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyam22462&show_icons=true&theme=default" height="165"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=satyam22462&show_icons=true&theme=default" height="165"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam22462&layout=compact&langs_count=6" height="165"/>
 </p>
 <p align="center">
